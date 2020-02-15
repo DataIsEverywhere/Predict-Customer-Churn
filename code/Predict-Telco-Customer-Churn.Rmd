@@ -29,7 +29,7 @@ library(ggstance) #A 'ggplot2' extension that flips components: horizontal versi
 
 
 #set working directory
-setwd(file.path("C:/Users/Dominic/Documents/R/WGU"))
+setwd(file.path("C:/Users/"))
 
 # Read from local file
 data.raw <- read.csv("customer_data.csv", header = TRUE)
